@@ -1,0 +1,6 @@
+{
+  "name": "Foot",
+  "version": "0.0.1",
+  "main":"./Foot.js",
+  "private":"true"
+}

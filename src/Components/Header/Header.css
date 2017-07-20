@@ -1,0 +1,53 @@
+*{padding: 0;margin:0;text-decoration: none;list-style:none;font-size:14px}
+.left{float:left;display:inline}
+.right{float:right;display:inline}
+.clear:after{display:block;content:'';clear:both}
+.clear{zoom:1}
+/*头部*/
+.shareHeader{
+    height:120px;
+    width:100%;
+    background-color: #FF6637;
+    min-width: 1200px;
+    color: #fff;
+}
+.shMain{
+    width:1200px;
+    margin:0 auto;
+    position: relative;
+}
+.shMain>span{
+    line-height: 120px;
+    font-size:32px;
+}
+.shMain ul li{
+    float: left;
+    width:110px;
+    height:39px;
+    border-radius: 5px;
+    margin-right:15px;
+}
+.shMain ul li:last-of-type{
+    margin:0;
+}
+.shMain ul li:first-of-type{
+    background: #fff;
+}
+.shMain ul li:first-of-type a{
+    color:#ff6637
+}
+.shMain ul li a{
+    display: block;
+    color: #fff;
+    width:100%;
+    height:100%;
+    text-align: center;
+    line-height: 39px;
+    font-size: 16px;
+}
+.shMain ul{
+    position: absolute;
+    left:427px;
+    display: inline-block;
+    top:50px;
+}

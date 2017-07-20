@@ -1,0 +1,6 @@
+{
+  "name": "School",
+  "version": "0.0.1",
+  "main":"./School.js",
+  "private":"true"
+}

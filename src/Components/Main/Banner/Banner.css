@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+*{padding: 0;margin:0;text-decoration: none;list-style:none;font-size:14px}
+.left{float:left;display:inline}
+.right{float:right;display:inline}
+.clear:after{display:block;content:'';clear:both}
+.clear{zoom:1}
+/*大banner样式*/
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 898px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+    width: 100%;
+}
+.ant-carousel .slick-slide h3 {
+    color: #fff;
+}
