@@ -13,7 +13,6 @@ class Banner extends Component{
         )
     }
     componentDidMount(){
-
     }
 }
 export default Banner
