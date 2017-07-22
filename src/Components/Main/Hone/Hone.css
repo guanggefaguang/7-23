@@ -1,3 +1,4 @@
+/*home开始*/
 .lhgcenter{
    width: 100%;
    height:831px;
@@ -27,14 +28,14 @@
 	font-size:16px;
 	text-align: center;
 }
-.lhglog{
+.lhglogo{
 	width: 1200px;
 	height: 85px;
 	margin: 0 auto;
-	background: red;
+	/*background: red;*/
 	margin-top: 17px;
 }
-.lhglog>img{
+.lhglogo>img{
 	display:block;
 	width:170px;
 	height:85px;
@@ -44,15 +45,19 @@
 .lhglogosr{
 	width:1200px;
 	height:70px;
-	background:wheat;
+	/*background:wheat;*/
 	margin: 0 auto;
 	margin-top:60px;
 }
-.lhglogo{
+.lhglogonenter{
 	width:156px;
 	height:70px;
-	background:aqua;
+	/*background:aqua;*/
 	float: left;
+	margin-left:190px;
+}
+.lhglogonenter:nth-child(1){
+	margin-left:0px ;
 }
 .lhglogleft{
 	width:73px;
@@ -108,5 +113,120 @@ color: rgb(43, 43, 43);
     line-height: 53px;
     color:#fd734a;
     font-size: 14px;
-
 }
+/*home结束*/
+.lhgConter{
+	width: 100%;
+	height: 1100px;
+	background:url(img/banner.png);
+	background-size: 100%;
+	margin: 0 auto;
+}
+.lhgContercen{
+	width: 1200px;
+	height: 1100px;
+	margin: 0 auto;
+	padding-top:40px ;
+}
+.lhglhgCtitle{
+	width:1200px;
+	height:85px;
+    /*background:yellow;*/
+     margin-top: 280px;
+}
+.lhglhgCtitle>b{
+	display: block;
+	text-align: center;
+	color:rgb(255, 255, 255) ;
+	font-size:48px;
+}
+.lhglhgCtitle>p{
+	color:rgb(255, 255, 255);
+	font-size:16px;
+	text-align: center;
+}
+.lhgclogo{
+	width: 1200px;
+	height: 83px;
+	margin:0 auto ;
+	/*background: red;*/
+	margin-top:54px;
+}
+.lhgclogo>img{
+	width:170px;
+	height:93px;
+	margin-left:510px;
+	/*display:inline-block;*/
+}
+/*内容开始*/
+.lhgcentert{
+	width: 1200px;
+	height: 398px;
+	margin: 0 auto;
+	/*background: red;*/
+	margin-top:46px;
+}
+.lhgceleft{
+	width:230px;
+	height:398px;
+	/*background:yellow;*/
+	float: left;
+	margin-left: 57px;
+}
+.lhgceimg{
+	width:185px;
+	height:183px;
+	margin: 0 auto;
+}
+.lhgceimg>img{
+	width:185px;
+	height:183px;
+	margin: 0 auto;
+}
+.lhgceia{
+	width:145px;
+	height:45px;
+	margin: 0 auto;
+	background:#FFFFFF;
+    border-radius:36px;
+    margin-top:20px;
+}
+.lhgceia>a{
+	display: block;
+	text-align: center;
+	line-height: 45px;
+	font-size:18px;
+	color: #fd734a;
+	text-decoration: none;
+}
+.lhgceip{
+	width:197px;
+	height:70px;
+	/*background:aqua;*/
+	margin: 0 auto;
+	margin-top:26px;
+}
+.lhgceip>p{
+	color:rgb(255, 255, 255);
+	font-size:14px;
+	text-align: center;
+	line-height:28px;
+}
+/*内容结束*/
+
+/*tsjx开始*/
+.tsjx{
+	width:100%;
+	height:1051px;
+	background:wheat;
+	margin:0 auto ;
+}
+.tsjxcnter{
+	width: 1200px;
+	height: 10581px;
+	background:#FFFFFF;
+	margin: 0 auto;
+}
+
+
+/*tsjx结束*/
