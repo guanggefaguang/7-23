@@ -23,25 +23,6 @@
 	text-align: center;
 	padding-top:100px;
 }
-.lhgctitler>p{
-	color: rgb(153, 153, 153);
-	font-size:16px;
-	text-align: center;
-}
-.lhglogo{
-	width: 1200px;
-	height: 85px;
-	margin: 0 auto;
-	/*background: red;*/
-	margin-top: 17px;
-}
-.lhglogo>img{
-	display:block;
-	width:170px;
-	height:85px;
-	margin: 0 auto;
-	text-align: center;
-}
 .lhglogosr{
 	width:1200px;
 	height:70px;
@@ -560,6 +541,22 @@ color: rgb(43, 43, 43);
 	margin: 0 auto;
 	margin-top:80px;
     }
+.lgcenter>p{
+	display: block;
+	margin: 0 auto;
+	color: rgb(153, 153, 153);
+	font-size:18px;
+	line-height: 28px;
+	text-align: center;
+}
+.lgcenter>p{
+	display: block;
+	margin: 0 auto;
+	color: rgb(153, 153, 153);
+	font-size:18px;
+	line-height: 28px;
+	text-align: center;
+}
 .lgcenter>p{
 	display: block;
 	margin: 0 auto;
