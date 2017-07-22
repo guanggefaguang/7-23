@@ -10,7 +10,10 @@ class Tsjx extends Component {
 			{/*txjx学校*/}
 			   <div className="tsjxcnter">
 			   {/*标题开始*/}
-			   <div className="tsjxcntitle"></div>
+			   	<div className="tsjxcntitle">
+			   	<b></b>
+                 <p></p>
+			  	 </div>
 			   </div>
 			</div>
 		);
